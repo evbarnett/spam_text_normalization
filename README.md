@@ -1,2 +1,2 @@
-# spam_text_normalization_4j
-Java library for protecting against spam detection avoidance techniques
+# spam_text_normalization
+Python library for protecting against spam detection avoidance techniques
